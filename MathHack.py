@@ -213,25 +213,3 @@ while True:
     elif choice == 'exit' or choice == 'EXIT': #exit option to terminate loop
         break;
 #---------End 'Main'----------
-
-            
-            
-            
-            
-                
-        
-    
-        
-        
-        
-        
-          
-    
-      
- 
-      
-    
-      
-      
-    
-    
