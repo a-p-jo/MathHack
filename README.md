@@ -17,7 +17,7 @@ As of v2 , MathHack Performs :
 
 6) Generating multiplication tables from x * 2 to x * 19 for any whole number [TAB]
 
-7) Calculates factorial of  whole number (max 20) [FCTRL]
+7) Calculates factorial of  whole number [FCTRL]
 
 8) Calculates roots and discriminant of quadratic equation [EQ]
 
