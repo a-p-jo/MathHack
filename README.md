@@ -1,6 +1,8 @@
 # MathHack
 CLI Swiss-Knife Math Tool for Middle to High School Students.
 
+Written in C as well as, for rarer operating systems, Python.
+
 As of v2 , MathHack Performs :
 
 1) Regular calculation ( + - * / ^ and % (Modulo Division) , | (Root of LHS w.r.t RHS)) [CALC]
