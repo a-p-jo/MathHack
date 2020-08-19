@@ -28,7 +28,7 @@ def factorial(x):
 #---- End Functions & Modules----
     
 #-----Begin 'Main'-----
-print("\nMathHack v2 \n\nCALC, FACT, AVG, PRIME, PMFACT, TAB, FCTRL, EQ, HCF, SMP, TCAL, TTAB") #INTRO TEXT (not looped)
+print("\nMathHack v2.1 \n\nCAL, FACT, AVG, PRIME, PMFACT, TAB, FCTRL, EQ, HCF, SMP, TCAL, TTAB") #INTRO TEXT (not looped)
 
 while True: 
     print("\n-------------------------\n") #separator between iterations of loop
@@ -36,7 +36,7 @@ while True:
 
 # Body Of If/Elif Statements 
 
-    if choice == "CALC" or choice == "calc":
+    if choice == "CAL" or choice == "cal":
       print("+  -  x  /  ^  % | are valid operations.\nInput Expression : ",end="")
       num1, op, num2 = input().split() #split() enable mutiple inputs in one line, split by SPACE
       num1 = float(num1) # converts num from str to float
