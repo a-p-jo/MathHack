@@ -1,9 +1,9 @@
 # MathHack
 CLI Swiss-Knife Math Tool for Middle to High School Students.
 
-Written in C as well as, for rarer operating systems, Python.
+Written in C as well as Python.
 
-As of v2.1 , MathHack Performs :
+As of v3 , MathHack Performs :
 
 1) Regular calculation ( + - * / ^ and % (Modulo Division) , | (Root of LHS w.r.t RHS)) [CALC]
 
@@ -28,3 +28,5 @@ As of v2.1 , MathHack Performs :
 11) Trigonometric calculator for any trig. func. and rad/deg [TCAL]
 
 12) Generates trigonometric table for entered rad/deg value [TTAB]
+
+With all input takes as CLI arguments , for example : `./MathHack-v3 cal 4x2` returns `Result =  12.000000` in the terminal.
